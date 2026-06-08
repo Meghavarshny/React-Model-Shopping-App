@@ -1,6 +1,9 @@
-React Shopping Cart Application
-
+## React Shopping Cart Application
 A modern, responsive e-commerce application built with React, TypeScript, and Tailwind CSS. Features a complete shopping cart system with product browsing, cart management, and checkout functionality.
+
+🚀 Live Demo
+Frontend Deployment
+🔗https://shoppreact.netlify.app/
 
 ## Features
 
